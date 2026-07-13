@@ -1,0 +1,10 @@
+- [ ] Finish the program :: 
+    - [ ] Squash bugs
+- [ ] Do old todos :: 
+    - [ ] Syntax highlighting for general use :: 
+        - [ ] TODO in yellow  
+	- [ ] numbers in a colour  
+	- [ ] words between brackets in cursive :: if possible
+- [ ] Incorporate dependency free philosophy :: 
+    - [ ] Talos for terminal   
+    - [ ] (1) unicode support :: dep=software_ideas:"Unicode segmentation"
