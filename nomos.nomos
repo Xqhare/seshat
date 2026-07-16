@@ -1,10 +1,10 @@
 - [ ] Finish the program :: 
-    - [ ] Squash bugs
+    - [ ] Squash bugs :: @everywhere
 - [ ] Do old todos :: 
-    - [ ] Syntax highlighting for general use :: 
-        - [ ] TODO in yellow  
+    - [ ] Syntax highlighting for general use :: #GeneralText difficulty=medium
+        - [ ] TODO in yellow
 	- [ ] numbers in a colour  
 	- [ ] words between brackets in cursive :: if possible
-- [ ] Incorporate dependency free philosophy :: 
-    - [ ] Talos for terminal   
-    - [ ] (1) unicode support :: dep=software_ideas:"Unicode segmentation"
+- [ ] Incorporate dependency free philosophy :: +Rework the program to be dependency free
+    - [ ] Talos for terminal :: dep=talos:"Multi-line text box"
+    - [ ] (1) unicode segmentation support :: dep=software_ideas:"Unicode segmentation"
