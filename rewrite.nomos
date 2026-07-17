@@ -4,7 +4,7 @@ Seshat remains the very first real rust project of mine. It predates the "all co
 
 Further, I have not done any work on the other projects of the pantheon to prepare for this rework, I was fine with letting Seshat be an unfinished mess.
 After working on Nomos, and integrating it into Seshat, I have decided to at least finish Seshat.
-I also decided to take on the challenge of making Seshat dependency free, most of the needed code already exists across the pantheon.
+I also decided to take on the challenge of making Seshat dependency free, most of the needed libraries already exists across the pantheon.
 
 - [ ] (1) Incorporate dependency free philosophy :: +Rework the program to be dependency free
     - [ ] Talos for terminal
