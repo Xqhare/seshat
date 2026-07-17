@@ -22,3 +22,9 @@ I also decided to take on the challenge of making Seshat dependency free, most o
 - [ ] Rethink of Seshats role
     * Because I use nvim for almost all my text editing needs, I think to rethink Seshats role to edit nomos files only.
     * Writing a nvim replacement is off the table => Complexity. (Would need to support tree sitter and general LSPs.)
+    - [ ] Integrate nomos deeply :: Shortcuts to jump to files / tasks, etc.
+        - [ ] Complete Nomos interactivity :: editing of files and tasks
+            * Delete?
+            * Move?
+        - [ ] Dream: Support nomos LSP for autocompletion & Error highlighting
+            * Probably unrealistic
