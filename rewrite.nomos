@@ -8,17 +8,17 @@ I also decided to take on the challenge of making Seshat dependency free, most o
 
 - [ ] (1) Incorporate dependency free philosophy :: +Rework the program to be dependency free
     - [ ] Talos for terminal
-	- [ ] Highlighting :: dep=talos:"Ability to change style of single characters"
-	    * At the moment, only entire wigets can be styled.
-	- [ ] General layout :: dep=talos:"Multi-line text box"
-	    * Top line: Menu bar; Buttons to load, save, quit
-	    * Tab line: Tabs for files
-	    * Middle: Text editor
-	    * Bottom line: Status bar
-	    * OPTIONAL: File tree of 'current' directory (probably just parent dir of current file)
-	    - [ ] Consider Side by Side editing
+        - [ ] Highlighting :: dep=talos:"Ability to change style of single characters"
+            * At the moment, only entire wigets can be styled.
+        - [ ] General layout :: dep=talos:"Multi-line text box"
+            * Top line: Menu bar; Buttons to load, save, quit
+            * Tab line: Tabs for files
+            * Middle: Text editor
+            * Bottom line: Status bar
+            * OPTIONAL: File tree of 'current' directory (probably just parent dir of current file)
+            - [ ] Consider Side by Side editing
     - [x] (1) unicode segmentation support :: dep=software_ideas:"Unicode segmentation"
-	* Implemented in Thoth
+        * Implemented in Thoth
 - [ ] Rethink of Seshats role
     * Because I use nvim for almost all my text editing needs, I think to rethink Seshats role to edit nomos files only.
     * Writing a nvim replacement is off the table => Complexity. (Would need to support tree sitter and general LSPs.)
