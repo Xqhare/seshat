@@ -1,0 +1,10 @@
+# Rework
+
+Seshat remains the very first real rust project of mine. It predates the "all code written by me or part of rusts std lib or libc" philosophy.
+
+Further, I have not done any work on the other projects of the pantheon to prepare for this rework, I was fine with letting Seshat be an unfinished mess.
+After working on Nomos, and integrating it into Seshat, I have decided to rework Seshat.
+
+- [ ] Incorporate dependency free philosophy :: +Rework the program to be dependency free
+    - [ ] Talos for terminal :: dep=talos:"Multi-line text box"
+    - [ ] (1) unicode segmentation support :: dep=software_ideas:"Unicode segmentation"
